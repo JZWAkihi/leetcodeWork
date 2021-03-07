@@ -5,6 +5,7 @@ import java.util.Arrays;
 public class BubbleSort {
 
     public static void bubbleSort(int[] nums){
+
         System.out.println(Arrays.toString(nums));
         for (int i = 0; i < nums.length; i++) {
             for (int j = 0; j < nums.length - i - 1; j++) {
@@ -15,6 +16,7 @@ public class BubbleSort {
                 }
             }
         }
+
         System.out.println(Arrays.toString(nums));
     }
 

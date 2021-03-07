@@ -5,6 +5,7 @@ import java.util.Arrays;
 public class SelectionSort {
 
     public static void selectionSort(int[] nums){
+
         System.out.println(Arrays.toString(nums));
 
         for (int i = 0; i < nums.length; i++) {
