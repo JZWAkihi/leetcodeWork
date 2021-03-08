@@ -2,21 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06e56b54-0170-4878-8621-70a63a62ad1a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/sort/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/jiang/sort/BubbleSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/sort/InsertionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/jiang/sort/InsertionSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/sort/SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/jiang/sort/SelectionSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiang/sort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiang/sort/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiang/sort/BucketSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiang/sort/BucketSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiang/sort/CountingSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiang/sort/CountingSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiang/sort/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiang/sort/HeapSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiang/sort/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiang/sort/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiang/sort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiang/sort/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiang/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiang/sort/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiang/sort/RadixSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiang/sort/RadixSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiang/sort/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiang/sort/SelectionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiang/sort/ShellSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiang/sort/ShellSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Group/AdjacencyGroup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Group/ArrayGroup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Group/Graph$PathInfo$EdgeInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Group/Graph$PathInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Group/Graph$VertexVisitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Group/Graph$WeightManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Group/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/jiang/Group/Graph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Group/ListGraph$Edge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Group/ListGraph$Vertex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Group/ListGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jiang/Group/AdjacencyGroup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jiang/Group/ArrayGroup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jiang/Group/Graph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jiang/Group/ListGraph.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +57,9 @@
     <option name="vmOptions" value="-Dmaven.multiModuleProjectDirectory=$M2_HOME" />
   </component>
   <component name="ProjectId" id="1p9Ag3sBoceYp3mZupzzxmoFXeg" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -67,15 +69,17 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/jiang/Group/Node.java" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/jiang/Group/Node.java" />
   </component>
-  <component name="RunManager" selected="Application.BucketSort">
-    <configuration name="BucketSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jiang.sort.BucketSort" />
+  <component name="RunManager" selected="Application.hanota">
+    <configuration name="Node" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jiang.Group.Node" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jiang.sort.*" />
+          <option name="PATTERN" value="jiang.Group.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountingSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jiang.sort.CountingSort" />
+    <configuration name="fib" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jiang.Recursion.fib" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jiang.sort.*" />
+          <option name="PATTERN" value="jiang.Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jiang.sort.HeapSort" />
+    <configuration name="hanota" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jiang.Recursion.hanota" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jiang.sort.*" />
+          <option name="PATTERN" value="jiang.Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jiang.sort.QuickSort" />
+    <configuration name="numWays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jiang.Recursion.numWays" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jiang.sort.*" />
+          <option name="PATTERN" value="jiang.Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RadixSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jiang.sort.RadixSort" />
+    <configuration name="tribonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jiang.Recursion.tribonacci" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jiang.sort.*" />
+          <option name="PATTERN" value="jiang.Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BucketSort" />
-        <item itemvalue="Application.RadixSort" />
-        <item itemvalue="Application.CountingSort" />
-        <item itemvalue="Application.HeapSort" />
-        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.hanota" />
+        <item itemvalue="Application.tribonacci" />
+        <item itemvalue="Application.numWays" />
+        <item itemvalue="Application.fib" />
+        <item itemvalue="Application.Node" />
       </list>
     </recent_temporary>
   </component>
@@ -168,6 +172,9 @@
       <workItem from="1615079146148" duration="6088000" />
       <workItem from="1615089066215" duration="5795000" />
       <workItem from="1615097478364" duration="2829000" />
+      <workItem from="1615106408788" duration="9064000" />
+      <workItem from="1615187786523" duration="1521000" />
+      <workItem from="1615201958912" duration="5909000" />
     </task>
     <servers />
   </component>
@@ -179,10 +186,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1614685474885" />
-    <state x="574" y="116" key="#com.intellij.ide.util.MemberChooser" timestamp="1615008240049">
+    <state x="574" y="116" key="#com.intellij.ide.util.MemberChooser" timestamp="1615189122727">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="574" y="116" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1615008240049" />
+    <state x="574" y="116" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1615189122727" />
     <state x="474" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1614645233130">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -191,42 +198,50 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="411" height="438" key="DebuggerActiveHint/0.0.1536.864@0.0.1536.864" timestamp="1615015560615" />
-    <state width="1493" height="230" key="GridCell.Tab.0.bottom" timestamp="1615100331605">
+    <state x="93" y="93" width="1350" height="678" key="DiffContextDialog" timestamp="1615201998830">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="230" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1615100331605" />
-    <state width="1493" height="230" key="GridCell.Tab.0.center" timestamp="1615100331605">
+    <state x="93" y="93" width="1350" height="678" key="DiffContextDialog/0.0.1536.864@0.0.1536.864" timestamp="1615201998830" />
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1615201972230">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="230" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1615100331605" />
-    <state width="1493" height="230" key="GridCell.Tab.0.left" timestamp="1615100331605">
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1615201972230" />
+    <state width="1493" height="258" key="GridCell.Tab.0.bottom" timestamp="1615207920765">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="230" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1615100331605" />
-    <state width="1493" height="230" key="GridCell.Tab.0.right" timestamp="1615100331605">
+    <state width="1493" height="258" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1615207920765" />
+    <state width="1493" height="258" key="GridCell.Tab.0.center" timestamp="1615207920765">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="230" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1615100331605" />
-    <state width="1493" height="230" key="GridCell.Tab.1.bottom" timestamp="1615100331605">
+    <state width="1493" height="258" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1615207920765" />
+    <state width="1493" height="258" key="GridCell.Tab.0.left" timestamp="1615207920765">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="230" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1615100331605" />
-    <state width="1493" height="230" key="GridCell.Tab.1.center" timestamp="1615100331605">
+    <state width="1493" height="258" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1615207920765" />
+    <state width="1493" height="258" key="GridCell.Tab.0.right" timestamp="1615207920765">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="230" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1615100331605" />
-    <state width="1493" height="230" key="GridCell.Tab.1.left" timestamp="1615100331605">
+    <state width="1493" height="258" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1615207920765" />
+    <state width="1493" height="258" key="GridCell.Tab.1.bottom" timestamp="1615207920765">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="230" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1615100331605" />
-    <state width="1493" height="230" key="GridCell.Tab.1.right" timestamp="1615100331605">
+    <state width="1493" height="258" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1615207920765" />
+    <state width="1493" height="258" key="GridCell.Tab.1.center" timestamp="1615207920765">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="230" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1615100331605" />
-    <state x="425" y="197" key="run.anything.popup" timestamp="1614764709849">
+    <state width="1493" height="258" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1615207920765" />
+    <state width="1493" height="258" key="GridCell.Tab.1.left" timestamp="1615207920765">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1614764709849" />
+    <state width="1493" height="258" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1615207920765" />
+    <state width="1493" height="258" key="GridCell.Tab.1.right" timestamp="1615207920765">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1615207920765" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1615106683999">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1615106683999" />
     <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1615090341348">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -249,6 +264,11 @@
           <url>file://$PROJECT_DIR$/src/jiang/sort/CountingSort.java</url>
           <line>31</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jiang/Recursion/fib.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
