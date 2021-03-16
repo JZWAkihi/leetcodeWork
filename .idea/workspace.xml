@@ -3,20 +3,38 @@
   <component name="ChangeListManager">
     <list default="true" id="06e56b54-0170-4878-8621-70a63a62ad1a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Group/AdjacencyGroup.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Group/ArrayGroup.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Group/Graph$PathInfo$EdgeInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Group/Graph$PathInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Group/Graph$VertexVisitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Group/Graph$WeightManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Group/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/jiang/Group/Graph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Group/ListGraph$Edge.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Group/ListGraph$Vertex.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Group/ListGraph.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiang/Group/AdjacencyGroup.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiang/Group/ArrayGroup.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiang/Group/Graph.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiang/Group/ListGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Leetcode/Father.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Leetcode/KMPtest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Leetcode/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Leetcode/Son.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Leetcode/VARTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Leetcode/backspaceCompare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Leetcode/canMakeArithmeticProgression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Leetcode/canPlaceFlowers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Leetcode/isLongPressedName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Leetcode/isPalindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Leetcode/isPalindromeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Leetcode/merge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Leetcode/merge10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Leetcode/removeDuplicates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Leetcode/restoreString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Leetcode/reverseString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Recursion/hanota.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/jiang/Recursion/hanota.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jiang/Leetcode/Father.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiang/twopoint/Father.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jiang/Leetcode/KMPtest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiang/twopoint/KMPtest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jiang/Leetcode/Son.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiang/twopoint/Son.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jiang/Leetcode/VARTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiang/twopoint/VARTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jiang/Leetcode/backspaceCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiang/twopoint/backspaceCompare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jiang/Leetcode/canMakeArithmeticProgression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiang/twopoint/canMakeArithmeticProgression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jiang/Leetcode/canPlaceFlowers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiang/twopoint/canPlaceFlowers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jiang/Leetcode/isLongPressedName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiang/twopoint/isLongPressedName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jiang/Leetcode/isPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiang/twopoint/isPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jiang/Leetcode/isPalindromeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiang/twopoint/isPalindromeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jiang/Leetcode/merge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiang/twopoint/merge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jiang/Leetcode/merge10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiang/twopoint/merge10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jiang/Leetcode/removeDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiang/twopoint/removeDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jiang/Leetcode/restoreString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiang/twopoint/restoreString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jiang/Leetcode/reverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiang/twopoint/reverseString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,19 +85,20 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ToolWindowDebug.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/jiang/Group/Node.java" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/jiang/Group/Node.java" />
   </component>
-  <component name="RunManager" selected="Application.hanota">
-    <configuration name="Node" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jiang.Group.Node" />
+  <component name="RunManager" selected="Application.levelSerial">
+    <configuration name="levelSerial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jiang.Tree.levelSerial" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jiang.Group.*" />
+          <option name="PATTERN" value="jiang.Tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fib" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jiang.Recursion.fib" />
+    <configuration name="preSerial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jiang.Tree.preSerial" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jiang.Recursion.*" />
+          <option name="PATTERN" value="jiang.Tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hanota" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jiang.Recursion.hanota" />
+    <configuration name="preorder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jiang.twopoint.preorder" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jiang.Recursion.*" />
+          <option name="PATTERN" value="jiang.twopoint.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="numWays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jiang.Recursion.numWays" />
+    <configuration name="rotateRight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jiang.twopoint.rotateRight" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jiang.Recursion.*" />
+          <option name="PATTERN" value="jiang.twopoint.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tribonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jiang.Recursion.tribonacci" />
+    <configuration name="threeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jiang.twopoint.threeSum" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jiang.Recursion.*" />
+          <option name="PATTERN" value="jiang.twopoint.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.hanota" />
-        <item itemvalue="Application.tribonacci" />
-        <item itemvalue="Application.numWays" />
-        <item itemvalue="Application.fib" />
-        <item itemvalue="Application.Node" />
+        <item itemvalue="Application.levelSerial" />
+        <item itemvalue="Application.preSerial" />
+        <item itemvalue="Application.preorder" />
+        <item itemvalue="Application.threeSum" />
+        <item itemvalue="Application.rotateRight" />
       </list>
     </recent_temporary>
   </component>
@@ -175,6 +194,17 @@
       <workItem from="1615106408788" duration="9064000" />
       <workItem from="1615187786523" duration="1521000" />
       <workItem from="1615201958912" duration="5909000" />
+      <workItem from="1615251196463" duration="3169000" />
+      <workItem from="1615269160318" duration="5278000" />
+      <workItem from="1615525587311" duration="2719000" />
+      <workItem from="1615597156759" duration="1717000" />
+      <workItem from="1615599323354" duration="5192000" />
+      <workItem from="1615682859285" duration="8877000" />
+      <workItem from="1615777666644" duration="880000" />
+      <workItem from="1615778883461" duration="1407000" />
+      <workItem from="1615790162206" duration="100000" />
+      <workItem from="1615791882158" duration="4197000" />
+      <workItem from="1615860608480" duration="3828000" />
     </task>
     <servers />
   </component>
@@ -186,14 +216,14 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1614685474885" />
-    <state x="574" y="116" key="#com.intellij.ide.util.MemberChooser" timestamp="1615189122727">
+    <state x="574" y="116" key="#com.intellij.ide.util.MemberChooser" timestamp="1615864373706">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="574" y="116" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1615189122727" />
-    <state x="474" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1614645233130">
+    <state x="574" y="116" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1615864373706" />
+    <state x="474" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1615602513073">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="474" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.864@0.0.1536.864" timestamp="1614645233130" />
+    <state x="474" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.864@0.0.1536.864" timestamp="1615602513073" />
     <state width="411" height="438" key="DebuggerActiveHint" timestamp="1615015560615">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -206,57 +236,57 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1615201972230" />
-    <state width="1493" height="258" key="GridCell.Tab.0.bottom" timestamp="1615207920765">
+    <state width="1493" height="136" key="GridCell.Tab.0.bottom" timestamp="1615864989383">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="258" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1615207920765" />
-    <state width="1493" height="258" key="GridCell.Tab.0.center" timestamp="1615207920765">
+    <state width="1493" height="136" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1615864989383" />
+    <state width="1493" height="136" key="GridCell.Tab.0.center" timestamp="1615864989383">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="258" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1615207920765" />
-    <state width="1493" height="258" key="GridCell.Tab.0.left" timestamp="1615207920765">
+    <state width="1493" height="136" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1615864989383" />
+    <state width="1493" height="136" key="GridCell.Tab.0.left" timestamp="1615864989383">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="258" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1615207920765" />
-    <state width="1493" height="258" key="GridCell.Tab.0.right" timestamp="1615207920765">
+    <state width="1493" height="136" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1615864989383" />
+    <state width="1493" height="136" key="GridCell.Tab.0.right" timestamp="1615864989383">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="258" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1615207920765" />
-    <state width="1493" height="258" key="GridCell.Tab.1.bottom" timestamp="1615207920765">
+    <state width="1493" height="136" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1615864989383" />
+    <state width="1493" height="317" key="GridCell.Tab.1.bottom" timestamp="1615796119244">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="258" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1615207920765" />
-    <state width="1493" height="258" key="GridCell.Tab.1.center" timestamp="1615207920765">
+    <state width="1493" height="317" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1615796119244" />
+    <state width="1493" height="317" key="GridCell.Tab.1.center" timestamp="1615796119244">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="258" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1615207920765" />
-    <state width="1493" height="258" key="GridCell.Tab.1.left" timestamp="1615207920765">
+    <state width="1493" height="317" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1615796119244" />
+    <state width="1493" height="317" key="GridCell.Tab.1.left" timestamp="1615796119244">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="258" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1615207920765" />
-    <state width="1493" height="258" key="GridCell.Tab.1.right" timestamp="1615207920765">
+    <state width="1493" height="317" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1615796119244" />
+    <state width="1493" height="317" key="GridCell.Tab.1.right" timestamp="1615796119244">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="258" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1615207920765" />
-    <state x="425" y="197" key="run.anything.popup" timestamp="1615106683999">
+    <state width="1493" height="317" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1615796119244" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1615600049926">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1615106683999" />
-    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1615090341348">
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1615600049926" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1615860750675">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1615090341348" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1615860750675" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/jiang/Leetcode/isPalindrome.java</url>
+          <url>file://$PROJECT_DIR$/src/jiang/twopoint/isPalindrome.java</url>
           <line>36</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/jiang/Leetcode/backspaceCompare.java</url>
+          <url>file://$PROJECT_DIR$/src/jiang/twopoint/backspaceCompare.java</url>
           <line>44</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
@@ -270,12 +300,19 @@
           <line>52</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jiang/Tree/TreeDepth.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="flowerbed.length" language="JAVA" />
         <watch expression="flowerbed.length" language="JAVA" />
+        <watch expression="Lnode1" language="JAVA" />
+        <watch expression="Lnode1" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
