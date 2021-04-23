@@ -3,38 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="06e56b54-0170-4878-8621-70a63a62ad1a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Leetcode/Father.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Leetcode/KMPtest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Leetcode/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Leetcode/Son.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Leetcode/VARTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Leetcode/backspaceCompare.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Leetcode/canMakeArithmeticProgression.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Leetcode/canPlaceFlowers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Leetcode/isLongPressedName.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Leetcode/isPalindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Leetcode/isPalindromeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Leetcode/merge.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Leetcode/merge10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Leetcode/removeDuplicates.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Leetcode/restoreString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Leetcode/reverseString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Recursion/hanota.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/jiang/Recursion/hanota.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiang/Leetcode/Father.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiang/twopoint/Father.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiang/Leetcode/KMPtest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiang/twopoint/KMPtest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiang/Leetcode/Son.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiang/twopoint/Son.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiang/Leetcode/VARTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiang/twopoint/VARTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiang/Leetcode/backspaceCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiang/twopoint/backspaceCompare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiang/Leetcode/canMakeArithmeticProgression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiang/twopoint/canMakeArithmeticProgression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiang/Leetcode/canPlaceFlowers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiang/twopoint/canPlaceFlowers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiang/Leetcode/isLongPressedName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiang/twopoint/isLongPressedName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiang/Leetcode/isPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiang/twopoint/isPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiang/Leetcode/isPalindromeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiang/twopoint/isPalindromeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiang/Leetcode/merge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiang/twopoint/merge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiang/Leetcode/merge10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiang/twopoint/merge10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiang/Leetcode/removeDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiang/twopoint/removeDuplicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiang/Leetcode/restoreString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiang/twopoint/restoreString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiang/Leetcode/reverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiang/twopoint/reverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Tree/GetNext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/jiang/Tree/GetNext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/jiang/Tree/TreeLinkNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/jiang/Tree/TreeLinkNode.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,13 +58,13 @@
     <property name="ToolWindowDebug.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/jiang/Group/Node.java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/jiang/Group/Node.java" />
   </component>
-  <component name="RunManager" selected="Application.levelSerial">
-    <configuration name="levelSerial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jiang.Tree.levelSerial" />
+  <component name="RunManager" selected="Application.FindNextNode">
+    <configuration name="ACLTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jiang.Tree.ACLTest" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -106,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="preSerial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jiang.Tree.preSerial" />
+    <configuration name="FindNextNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jiang.Tree.FindNextNode" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -119,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="preorder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jiang.twopoint.preorder" />
+    <configuration name="MaxDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jiang.Tree.MaxDistance" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jiang.twopoint.*" />
+          <option name="PATTERN" value="jiang.Tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="rotateRight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jiang.twopoint.rotateRight" />
+    <configuration name="MaxHappy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jiang.Tree.MaxHappy" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jiang.twopoint.*" />
+          <option name="PATTERN" value="jiang.Tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="threeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jiang.twopoint.threeSum" />
+    <configuration name="RecentlyFather" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jiang.Tree.RecentlyFather" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jiang.twopoint.*" />
+          <option name="PATTERN" value="jiang.Tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.levelSerial" />
-        <item itemvalue="Application.preSerial" />
-        <item itemvalue="Application.preorder" />
-        <item itemvalue="Application.threeSum" />
-        <item itemvalue="Application.rotateRight" />
+        <item itemvalue="Application.FindNextNode" />
+        <item itemvalue="Application.MaxDistance" />
+        <item itemvalue="Application.MaxHappy" />
+        <item itemvalue="Application.RecentlyFather" />
+        <item itemvalue="Application.ACLTest" />
       </list>
     </recent_temporary>
   </component>
@@ -205,6 +175,20 @@
       <workItem from="1615790162206" duration="100000" />
       <workItem from="1615791882158" duration="4197000" />
       <workItem from="1615860608480" duration="3828000" />
+      <workItem from="1615878045623" duration="616000" />
+      <workItem from="1615891076449" duration="3511000" />
+      <workItem from="1615946026818" duration="1584000" />
+      <workItem from="1616211914352" duration="210000" />
+      <workItem from="1616237990803" duration="74000" />
+      <workItem from="1617156842626" duration="1407000" />
+      <workItem from="1618366411812" duration="1971000" />
+      <workItem from="1618449243756" duration="35000" />
+      <workItem from="1619140778086" duration="6463000" />
+      <workItem from="1619148519836" duration="4353000" />
+      <workItem from="1619158169274" duration="4497000" />
+      <workItem from="1619164166225" duration="912000" />
+      <workItem from="1619171628959" duration="3316000" />
+      <workItem from="1619178420802" duration="545000" />
     </task>
     <servers />
   </component>
@@ -216,66 +200,70 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1614685474885" />
-    <state x="574" y="116" key="#com.intellij.ide.util.MemberChooser" timestamp="1615864373706">
+    <state x="574" y="116" key="#com.intellij.ide.util.MemberChooser" timestamp="1619162264143">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="574" y="116" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1615864373706" />
-    <state x="474" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1615602513073">
+    <state x="574" y="116" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1619162264143" />
+    <state x="474" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1619171813484">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="474" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.864@0.0.1536.864" timestamp="1615602513073" />
+    <state x="474" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.864@0.0.1536.864" timestamp="1619171813484" />
     <state width="411" height="438" key="DebuggerActiveHint" timestamp="1615015560615">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="411" height="438" key="DebuggerActiveHint/0.0.1536.864@0.0.1536.864" timestamp="1615015560615" />
-    <state x="93" y="93" width="1350" height="678" key="DiffContextDialog" timestamp="1615201998830">
+    <state x="93" y="93" width="1350" height="678" key="DiffContextDialog" timestamp="1616238014545">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="93" y="93" width="1350" height="678" key="DiffContextDialog/0.0.1536.864@0.0.1536.864" timestamp="1615201998830" />
-    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1615201972230">
+    <state x="93" y="93" width="1350" height="678" key="DiffContextDialog/0.0.1536.864@0.0.1536.864" timestamp="1616238014545" />
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1618449273577">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1615201972230" />
-    <state width="1493" height="136" key="GridCell.Tab.0.bottom" timestamp="1615864989383">
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1618449273577" />
+    <state width="1018" height="173" key="GridCell.Tab.0.bottom" timestamp="1619178979047">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="136" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1615864989383" />
-    <state width="1493" height="136" key="GridCell.Tab.0.center" timestamp="1615864989383">
+    <state width="1018" height="173" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1619178979047" />
+    <state width="1018" height="173" key="GridCell.Tab.0.center" timestamp="1619178979047">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="136" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1615864989383" />
-    <state width="1493" height="136" key="GridCell.Tab.0.left" timestamp="1615864989383">
+    <state width="1018" height="173" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1619178979047" />
+    <state width="1018" height="173" key="GridCell.Tab.0.left" timestamp="1619178979047">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="136" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1615864989383" />
-    <state width="1493" height="136" key="GridCell.Tab.0.right" timestamp="1615864989383">
+    <state width="1018" height="173" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1619178979047" />
+    <state width="1018" height="173" key="GridCell.Tab.0.right" timestamp="1619178979047">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="136" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1615864989383" />
-    <state width="1493" height="317" key="GridCell.Tab.1.bottom" timestamp="1615796119244">
+    <state width="1018" height="173" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1619178979047" />
+    <state width="1017" height="201" key="GridCell.Tab.1.bottom" timestamp="1619174973762">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="317" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1615796119244" />
-    <state width="1493" height="317" key="GridCell.Tab.1.center" timestamp="1615796119244">
+    <state width="1017" height="201" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1619174973762" />
+    <state width="1017" height="201" key="GridCell.Tab.1.center" timestamp="1619174973762">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="317" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1615796119244" />
-    <state width="1493" height="317" key="GridCell.Tab.1.left" timestamp="1615796119244">
+    <state width="1017" height="201" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1619174973762" />
+    <state width="1017" height="201" key="GridCell.Tab.1.left" timestamp="1619174973761">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="317" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1615796119244" />
-    <state width="1493" height="317" key="GridCell.Tab.1.right" timestamp="1615796119244">
+    <state width="1017" height="201" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1619174973761" />
+    <state width="1017" height="201" key="GridCell.Tab.1.right" timestamp="1619174973762">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="317" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1615796119244" />
+    <state width="1017" height="201" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1619174973762" />
+    <state x="178" y="35" key="new project wizard" timestamp="1616238066375">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="178" y="35" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1616238066375" />
     <state x="425" y="197" key="run.anything.popup" timestamp="1615600049926">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1615600049926" />
-    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1615860750675">
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1619150477906">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1615860750675" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1619150477906" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -307,14 +295,6 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="flowerbed.length" language="JAVA" />
-        <watch expression="flowerbed.length" language="JAVA" />
-        <watch expression="Lnode1" language="JAVA" />
-        <watch expression="Lnode1" language="JAVA" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Algorithm$canPlaceFlowers.ic" NAME="canPlaceFlowers Coverage Results" MODIFIED="1615079698386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
